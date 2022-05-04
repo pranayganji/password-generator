@@ -11,7 +11,7 @@ aiosignal==1.2.0
 aiosmb==0.2.50
 aiosqlite==0.16.1
 aiowinreg==0.0.7
-ajpy==0.0.4
+ajpy==0.1.0
 alembic==1.7.1.dev0
 altgraph==0.17.2
 aniso8601==9.0.1
